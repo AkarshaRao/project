@@ -1,0 +1,6 @@
+<<<<<<< Updated upstream
+hi there stash thing is this  gurunag sai
+=======
+hi there stash thing is this
+yes it is a stash
+>>>>>>> Stashed changes
